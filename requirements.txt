@@ -1,0 +1,17 @@
+# Core Framework
+streamlit
+
+# Data Manipulation & Analysis
+pandas
+numpy
+
+# Advanced Visualization
+plotly
+
+# Utilities (often used by pandas/plotly)
+python-dateutil
+pytz
+
+# (Optional but recommended) For potential future features or if any module fails
+# openpyxl - to support .xlsx file uploads
+# scikit-learn - if your predictive engine uses it
