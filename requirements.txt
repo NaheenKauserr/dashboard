@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+statsmodels
+prophet
+groq
+python-dotenv
+openpyxl
+fpdf2
+markdown
